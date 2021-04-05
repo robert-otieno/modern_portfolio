@@ -5,7 +5,7 @@ $home-image: url(../img/coming_soon_showcase.jpg);
 $background-opacity: 0.8;
 
 @mixin easeOut {
-    transition: all 0.5 ease-out;
+    transition: all 0.5s ease-out;
 }
 
 @mixin background {
